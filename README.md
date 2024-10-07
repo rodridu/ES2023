@@ -1,4 +1,4 @@
-# Complexity-Index
+# Enke and Shubatt (2023)
 ## Repository Structure
 
 - **Jupyter Notebooks**:
