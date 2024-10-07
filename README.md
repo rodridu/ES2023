@@ -1,6 +1,18 @@
 # Complexity-Index
+## Repository Structure
 
-Provided are R (`calc_index.R`) and Stata (`calc_index.do`) files to calculate complexity indices from [Quantifying Lottery Choice Complexity (Enke & Shubatt 2023)](https://benjamin-enke.com/pdf/Quant_complexity.pdf):
+- **Jupyter Notebooks**:
+  - `CP Confidence.ipynb`: Analysis related to confidence, using subject-level data.
+  - `CP Confidence No Subject.ipynb`: Confidence analysis without subject-specific data.
+  - `CP Risk.ipynb`: Risk analysis using subject-level data.
+  - `CP Risk No Subject.ipynb`: Risk analysis without subject-specific data.
+  - `Demeaned Confidence.ipynb`: Confidence analysis with demeaned data for statistical adjustments.
+  - `Demeaned Risk.ipynb`: Risk analysis with demeaned data.
+  - `Peterson.ipynb`: Analysis or replication related to a study by Peterson (details inside the notebook).
+  - `Shubatt Replication.ipynb`: Replication of a study by Shubatt (details inside the notebook).
+
+- **Stata `.do` File**:
+  - `calc_index.do`: A Stata script to calculate complexity indices from [Quantifying Lottery Choice Complexity (Enke & Shubatt 2023)](https://benjamin-enke.com/pdf/Quant_complexity.pdf):
 - **OPC**: Objective Problem Complexity
 - **SPC**: Subjective Problem Complexity
 - **OAC**: Objective Aggregation Complexity
