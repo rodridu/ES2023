@@ -97,4 +97,4 @@ $$ log \Big ( 1 + k_j \Big )$$
 
 
 ### Running the Python Script
- See `Shubatt.ipynb` for the replication code.
+ See `Shubatt Replication.ipynb` for the replication code.
